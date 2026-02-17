@@ -112,7 +112,7 @@ function App() {
 
           {/* Services */}
           <h2 className="w-full text-center text-lg font-semibold text-[#e4c590] mb-4">
-            Services
+            Services..
           </h2>
           <div className="w-full grid grid-cols-1 gap-5">
             {data.services?.map((srv, i) => (
